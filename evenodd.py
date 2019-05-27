@@ -6,4 +6,4 @@ def evenodd(x):
   else:
     print("Invalid")
 x=int(input())
-print(evenodd)
+print(evenodd(x))

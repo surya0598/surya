@@ -5,3 +5,5 @@ def posneg(q):
   return("Negative")
 else:
   return("Zero")
+q=int(input())
+print(posneg)

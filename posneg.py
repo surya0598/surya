@@ -1,7 +1,7 @@
-q=int(input())
-if q>0:
-  print("Positive")
-elif q<0:
-  print("Negative")
+def posneg(q):
+  if q>0:
+    return("Positive")
+ elif:
+  return("Negative")
 else:
-  print("Zero")
+  return("Zero")

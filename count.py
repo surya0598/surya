@@ -1,2 +1,3 @@
-x=str(input())
-print(len(x))
+x=int(input())
+y=str(x)
+print(len(y))
